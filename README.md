@@ -1,2 +1,2 @@
-# estadisticas-descriptivas
+# Estadisticas-Descriptivas
 Practicas de Estadistica Descriptiva
